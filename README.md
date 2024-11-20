@@ -10,5 +10,5 @@
 
 ---
 <div align="center">
-  <p>💖 Thanks for visiting my profile! Have a great day! 💖</p>
+  <p>Thanks for visiting my profile! Have a great day! </p>
 </div>
